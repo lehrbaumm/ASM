@@ -39,3 +39,9 @@ Thumbs.db
 # Visual Studio Folder #
 ########################
 /.vs/
+
+# My Folders #
+##############
+/Assembler/
+/Linker/
+/Debugger/
